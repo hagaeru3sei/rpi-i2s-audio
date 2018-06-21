@@ -1,0 +1,6 @@
+/.*
+/modules.order
+/Module.symvers
+/my_loader.*
+!my_loader.c
+!.gitignore
